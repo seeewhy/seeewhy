@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seeewhy
-- 👀 I’m interested in CLoud and DevOps
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate with anybody intrested inCLoud and DevOps
+- 👀 I’m interested in CLoud automation and DevOps Technology
+- 🌱 I'm learning new stuffs everyday
+- 💞️ I’m looking to collaborate with anybody intrested in Cloud and DevOps
 - 📫 cyrilossai@gmail.com
 
 <!---
