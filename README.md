@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seeewhy
+- 👋 Hi, I’m @seeewhy, this is my new github account, previous account lost
 - 👀 I’m interested in CLoud automation and DevOps Technology
 - 🌱 I'm learning new stuffs everyday
 - 💞️ I’m looking to collaborate with anybody intrested in Cloud and DevOps
