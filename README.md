@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cyril Ossai, this is my new github account, previous account lost
-- 👀 I’m interested in CLoud automation and DevOps Technology
+- 👀 I’m interested in Cloud automation and DevOps Technology
 - 🌱 I'm learning new stuffs everyday
 - 💞️ I’m looking to collaborate with anybody intrested in Cloud and DevOps
 - 📫 How to reach me cyrilossai@gmail.com
